@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6f6115b757c885947a5b18d84afb18df
+timeCreated: 1538629288
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: K2D ExtraLight
+  fontNames:
+  - K2D ExtraLight
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4001d2cf0cc26ea4aaa9ab1f75dbeb85, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

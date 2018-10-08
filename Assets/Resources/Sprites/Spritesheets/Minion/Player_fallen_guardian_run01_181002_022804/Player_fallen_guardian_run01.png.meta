@@ -1,0 +1,314 @@
+fileFormatVersion: 2
+guid: cade99178e9972b4f95910069e904210
+timeCreated: 1538461697
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player_fallen_guardian_run010
+    21300002: Player_fallen_guardian_run011
+    21300004: Player_fallen_guardian_run012
+    21300006: Player_fallen_guardian_run013
+    21300008: Player_fallen_guardian_run014
+    21300010: Player_fallen_guardian_run015
+    21300012: Player_fallen_guardian_run016
+    21300014: Player_fallen_guardian_run017
+    21300016: Player_fallen_guardian_run018
+    21300018: Player_fallen_guardian_run019
+    21300020: Player_fallen_guardian_run0110
+    21300022: Player_fallen_guardian_run0111
+    21300024: Player_fallen_guardian_run0112
+    21300026: Player_fallen_guardian_run0113
+    21300028: Player_fallen_guardian_run0114
+    21300030: Player_fallen_guardian_run0115
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_fallen_guardian_run010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 881
+        width: 212
+        height: 265
+      alignment: 9
+      pivot: {x: 0.48584905, y: 0.25660378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_fallen_guardian_run011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1413
+        width: 207
+        height: 268
+      alignment: 9
+      pivot: {x: 0.46376812, y: 0.26492536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_fallen_guardian_run012
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 881
+        width: 222
+        height: 251
+      alignment: 9
+      pivot: {x: 0.509009, y: 0.3187251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_fallen_guardian_run013
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 247
+        width: 197
+        height: 315
+      alignment: 9
+      pivot: {x: 0.42131978, y: 0.2793651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_fallen_guardian_run014
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567
+        width: 197
+        height: 314
+      alignment: 9
+      pivot: {x: 0.4111675, y: 0.29617834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_fallen_guardian_run015
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 247
+        width: 199
+        height: 311
+      alignment: 9
+      pivot: {x: 0.42713568, y: 0.29581994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_fallen_guardian_run016
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 307
+        height: 247
+      alignment: 9
+      pivot: {x: 0.6384365, y: 0.27125505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_fallen_guardian_run017
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 567
+        width: 212
+        height: 267
+      alignment: 9
+      pivot: {x: 0.48584905, y: 0.25842696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_fallen_guardian_run018
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1146
+        width: 209
+        height: 267
+      alignment: 9
+      pivot: {x: 0.46889952, y: 0.25842696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_fallen_guardian_run019
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 567
+        width: 229
+        height: 257
+      alignment: 9
+      pivot: {x: 0.52401745, y: 0.30350193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_fallen_guardian_run0110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 197
+        height: 320
+      alignment: 9
+      pivot: {x: 0.42131978, y: 0.271875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_fallen_guardian_run0111
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 247
+        width: 199
+        height: 311
+      alignment: 9
+      pivot: {x: 0.40703517, y: 0.29581994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_fallen_guardian_run0112
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 247
+        width: 198
+        height: 313
+      alignment: 9
+      pivot: {x: 0.41414142, y: 0.2971246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_fallen_guardian_run0113
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 0
+        width: 305
+        height: 247
+      alignment: 9
+      pivot: {x: 0.6393443, y: 0.27125505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_fallen_guardian_run0114
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 567
+        width: 216
+        height: 265
+      alignment: 9
+      pivot: {x: 0.49537036, y: 0.26415095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_fallen_guardian_run0115
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 881
+        width: 209
+        height: 264
+      alignment: 9
+      pivot: {x: 0.46889952, y: 0.26136363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

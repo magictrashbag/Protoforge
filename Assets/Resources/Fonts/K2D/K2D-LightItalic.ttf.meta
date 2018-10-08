@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cdd2ee66bc33f3845bea1b40a9346874
+timeCreated: 1538629288
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: K2D Light
+  fontNames:
+  - K2D Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 58de811844d5b2a4ab0aa7228b85a855, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: b5bcc5b07a3538f4d8a225a285897c8e
+timeCreated: 1538516591
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player_run0
+    21300002: Player_run1
+    21300004: Player_run2
+    21300006: Player_run3
+    21300008: Player_run4
+    21300010: Player_run5
+    21300012: Player_run6
+    21300014: Player_run7
+    21300016: Player_run8
+    21300018: Player_run9
+    21300020: Player_run10
+    21300022: Player_run11
+    21300024: Player_run12
+    21300026: Player_run13
+    21300028: Player_run14
+    21300030: Player_run15
+    21300032: Player_run16
+    21300034: Player_run17
+    21300036: Player_run18
+    21300038: Player_run19
+    21300040: Player_run20
+    21300042: Player_run21
+    21300044: Player_run22
+    21300046: Player_run23
+    21300048: Player_run24
+    21300050: Player_run25
+    21300052: Player_run26
+    21300054: Player_run27
+    21300056: Player_run28
+    21300058: Player_run29
+    21300060: Player_run30
+    21300062: Player_run31
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_run0
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 523
+        width: 144
+        height: 258
+      alignment: 9
+      pivot: {x: 0.7291667, y: 0.18992248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run1
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 0
+        width: 138
+        height: 256
+      alignment: 9
+      pivot: {x: 0.73188406, y: 0.18359375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run2
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 138
+        height: 258
+      alignment: 9
+      pivot: {x: 0.6884058, y: 0.18992248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run3
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 260
+        width: 143
+        height: 261
+      alignment: 9
+      pivot: {x: 0.6433566, y: 0.19923371}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run4
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 262
+        width: 148
+        height: 265
+      alignment: 9
+      pivot: {x: 0.6081081, y: 0.21132076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 273
+        width: 151
+        height: 270
+      alignment: 9
+      pivot: {x: 0.56953645, y: 0.22592592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 151
+        height: 271
+      alignment: 9
+      pivot: {x: 0.54966885, y: 0.22878228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run7
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 272
+        width: 143
+        height: 271
+      alignment: 9
+      pivot: {x: 0.55244756, y: 0.22878228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run8
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 532
+        width: 134
+        height: 268
+      alignment: 9
+      pivot: {x: 0.5597015, y: 0.21641791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run9
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 531
+        width: 128
+        height: 268
+      alignment: 9
+      pivot: {x: 0.59375, y: 0.20895523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run10
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 260
+        width: 125
+        height: 267
+      alignment: 9
+      pivot: {x: 0.648, y: 0.2059925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run11
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 0
+        width: 136
+        height: 264
+      alignment: 9
+      pivot: {x: 0.64705884, y: 0.20075758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run12
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 262
+        width: 152
+        height: 264
+      alignment: 9
+      pivot: {x: 0.6315789, y: 0.20454545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 162
+        height: 262
+      alignment: 9
+      pivot: {x: 0.6419753, y: 0.19847329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run14
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 0
+        width: 154
+        height: 260
+      alignment: 9
+      pivot: {x: 0.6883117, y: 0.1923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run15
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 0
+        width: 144
+        height: 258
+      alignment: 9
+      pivot: {x: 0.7291667, y: 0.18992248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run16
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 0
+        width: 137
+        height: 256
+      alignment: 9
+      pivot: {x: 0.73722625, y: 0.18359375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run17
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 0
+        width: 139
+        height: 258
+      alignment: 9
+      pivot: {x: 0.6906475, y: 0.18992248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run18
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 545
+        width: 144
+        height: 261
+      alignment: 9
+      pivot: {x: 0.6458333, y: 0.19923371}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run19
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 529
+        width: 147
+        height: 265
+      alignment: 9
+      pivot: {x: 0.6122449, y: 0.21132076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run20
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 545
+        width: 150
+        height: 269
+      alignment: 9
+      pivot: {x: 0.5733333, y: 0.22304833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 153
+        height: 271
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.22878228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run22
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 0
+        width: 144
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5486111, y: 0.22592592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run23
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 260
+        width: 135
+        height: 270
+      alignment: 9
+      pivot: {x: 0.56296295, y: 0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run24
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 260
+        width: 128
+        height: 268
+      alignment: 9
+      pivot: {x: 0.59375, y: 0.20895523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run25
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 530
+        width: 126
+        height: 266
+      alignment: 9
+      pivot: {x: 0.64285713, y: 0.20300752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run26
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 266
+        width: 136
+        height: 263
+      alignment: 9
+      pivot: {x: 0.64705884, y: 0.19771864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run27
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 528
+        width: 152
+        height: 264
+      alignment: 9
+      pivot: {x: 0.6315789, y: 0.20454545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 161
+        height: 262
+      alignment: 9
+      pivot: {x: 0.63975155, y: 0.19847329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run29
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 0
+        width: 156
+        height: 260
+      alignment: 9
+      pivot: {x: 0.67948717, y: 0.1923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run30
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 0
+        width: 146
+        height: 258
+      alignment: 9
+      pivot: {x: 0.72602737, y: 0.18604651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_run31
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 0
+        width: 138
+        height: 256
+      alignment: 9
+      pivot: {x: 0.73913044, y: 0.18359375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 816ddacdf3399da46afb6f8c54b7283f
+timeCreated: 1538629288
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: K2D Medium
+  fontNames:
+  - K2D Medium
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 62af0fb209b80c04e92b6a67e6f5c391, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

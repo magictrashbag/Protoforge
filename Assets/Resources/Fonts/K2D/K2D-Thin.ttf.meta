@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 195cef1d759e906469fd8bb5baa71322
+timeCreated: 1538629288
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: K2D Thin
+  fontNames:
+  - K2D Thin
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0b927f4e26732044cabc66b139a7ba54, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

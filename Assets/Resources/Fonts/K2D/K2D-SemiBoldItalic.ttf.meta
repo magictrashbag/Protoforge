@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9f233029c5c29f04bb64485ebbf83a9b
+timeCreated: 1538629288
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: K2D SemiBold
+  fontNames:
+  - K2D SemiBold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 17587c8463bd60f4aa9d47601f5690e7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 025a93b17faf8374d8c1697b765847ce
+timeCreated: 1538517670
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player_atk010
+    21300002: Player_atk011
+    21300004: Player_atk012
+    21300006: Player_atk013
+    21300008: Player_atk014
+    21300010: Player_atk015
+    21300012: Player_atk016
+    21300014: Player_atk017
+    21300016: Player_atk018
+    21300018: Player_atk019
+    21300020: Player_atk0110
+    21300022: Player_atk0111
+    21300024: Player_atk0112
+    21300026: Player_atk0113
+    21300028: Player_atk0114
+    21300030: Player_atk0115
+    21300032: Player_atk0116
+    21300034: Player_atk0117
+    21300036: Player_atk0118
+    21300038: Player_atk0119
+    21300040: Player_atk0120
+    21300042: Player_atk0121
+    21300044: Player_atk0122
+    21300046: Player_atk0123
+    21300048: Player_atk0124
+    21300050: Player_atk0125
+    21300052: Player_atk0126
+    21300054: Player_atk0127
+    21300056: Player_atk0128
+    21300058: Player_atk0129
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_atk010
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 509
+        width: 189
+        height: 241
+      alignment: 9
+      pivot: {x: 0.23280424, y: 0.17427386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk011
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 244
+        width: 179
+        height: 243
+      alignment: 9
+      pivot: {x: 0.24581006, y: 0.17283951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk012
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 746
+        width: 171
+        height: 243
+      alignment: 9
+      pivot: {x: 0.25730994, y: 0.17283951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk013
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 0
+        width: 186
+        height: 242
+      alignment: 9
+      pivot: {x: 0.32258064, y: 0.17355372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk014
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 246
+        width: 195
+        height: 250
+      alignment: 9
+      pivot: {x: 0.37435898, y: 0.188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk015
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 225
+        width: 192
+        height: 262
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.20610687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk016
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 539
+        width: 179
+        height: 267
+      alignment: 9
+      pivot: {x: 0.45810056, y: 0.22097379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk017
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 257
+        width: 168
+        height: 265
+      alignment: 9
+      pivot: {x: 0.4940476, y: 0.21132076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk018
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 245
+        width: 174
+        height: 262
+      alignment: 9
+      pivot: {x: 0.50574714, y: 0.20229007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk019
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 201
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5721393, y: 0.1796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk0110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 762
+        width: 201
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5721393, y: 0.18503937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk0111
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 498
+        width: 193
+        height: 248
+      alignment: 9
+      pivot: {x: 0.55440414, y: 0.18548387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk0112
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 748
+        width: 193
+        height: 243
+      alignment: 9
+      pivot: {x: 0.55440414, y: 0.17283951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk0113
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 0
+        width: 201
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5721393, y: 0.17213115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk0114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 208
+        height: 248
+      alignment: 9
+      pivot: {x: 0.59134614, y: 0.16935484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk0115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 208
+        height: 252
+      alignment: 9
+      pivot: {x: 0.59134614, y: 0.17063493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk0116
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 489
+        width: 195
+        height: 257
+      alignment: 9
+      pivot: {x: 0.5692308, y: 0.17898832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk0117
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 267
+        width: 181
+        height: 270
+      alignment: 9
+      pivot: {x: 0.53038675, y: 0.15925926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk0118
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 0
+        width: 177
+        height: 255
+      alignment: 9
+      pivot: {x: 0.4519774, y: 0.16470589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk0119
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 489
+        width: 163
+        height: 255
+      alignment: 9
+      pivot: {x: 0.4785276, y: 0.16470589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk0120
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 244
+        width: 158
+        height: 251
+      alignment: 9
+      pivot: {x: 0.4620253, y: 0.17529881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk0121
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 497
+        width: 152
+        height: 259
+      alignment: 9
+      pivot: {x: 0.44078946, y: 0.2084942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk0122
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 758
+        width: 144
+        height: 259
+      alignment: 9
+      pivot: {x: 0.4097222, y: 0.27027026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk0123
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 235
+        height: 223
+      alignment: 9
+      pivot: {x: 0.20425531, y: 0.21524663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk0124
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 752
+        width: 188
+        height: 241
+      alignment: 9
+      pivot: {x: 0.2287234, y: 0.17427386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk0125
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 524
+        width: 176
+        height: 243
+      alignment: 9
+      pivot: {x: 0.2556818, y: 0.17283951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk0126
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 769
+        width: 176
+        height: 242
+      alignment: 9
+      pivot: {x: 0.2784091, y: 0.17355372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk0127
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 0
+        width: 189
+        height: 243
+      alignment: 9
+      pivot: {x: 0.33862433, y: 0.17283951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk0128
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 748
+        width: 195
+        height: 256
+      alignment: 9
+      pivot: {x: 0.3948718, y: 0.1953125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_atk0129
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 186
+        height: 265
+      alignment: 9
+      pivot: {x: 0.43010753, y: 0.21132076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

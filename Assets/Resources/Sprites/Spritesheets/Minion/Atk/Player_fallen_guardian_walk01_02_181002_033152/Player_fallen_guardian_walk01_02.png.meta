@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 7d55726762c07a946a60a25b86456069
+timeCreated: 1538465514
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player_fallen_guardian_walk01_020
+    21300002: Player_fallen_guardian_walk01_021
+    21300004: Player_fallen_guardian_walk01_022
+    21300006: Player_fallen_guardian_walk01_023
+    21300008: Player_fallen_guardian_walk01_024
+    21300010: Player_fallen_guardian_walk01_025
+    21300012: Player_fallen_guardian_walk01_026
+    21300014: Player_fallen_guardian_walk01_027
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_fallen_guardian_walk01_020
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 396
+        width: 149
+        height: 200
+      alignment: 9
+      pivot: {x: 0.54362416, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_fallen_guardian_walk01_021
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 169
+        height: 187
+      alignment: 9
+      pivot: {x: 0.6923077, y: 0.19786096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_fallen_guardian_walk01_022
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 179
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5698324, y: 0.3512195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_fallen_guardian_walk01_023
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 173
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5780347, y: 0.28643215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_fallen_guardian_walk01_024
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 396
+        width: 154
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5649351, y: 0.28140703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_fallen_guardian_walk01_025
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 156
+        height: 198
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.25757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_fallen_guardian_walk01_026
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 153
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.25373134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Player_fallen_guardian_walk01_027
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 599
+        width: 147
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5510204, y: 0.24875621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
