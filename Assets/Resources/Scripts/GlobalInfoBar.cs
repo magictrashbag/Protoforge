@@ -13,7 +13,9 @@ public class GlobalInfoBar : MonoBehaviour {
     // Use this for initialization
     void Start () {
         m_batteryFill = m_batteryMeter.GetComponentInChildren<Image>();
-	}
+        Application.runInBackground = true;
+
+    }
 	
 	// Update is called once per frame
 	void Update () {
