@@ -7191,6 +7191,32 @@ Prefab:
       propertyPath: m_SpawnIndicator
       value: 
       objectReference: {fileID: 1523291727}
+    - target: {fileID: 114423774035921108, guid: 0f3943322c0750b4cb8806df0a4c529e,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: becebd8bd487b12448b86ff267a21f35,
+        type: 3}
+    - target: {fileID: 114011963167556258, guid: 0f3943322c0750b4cb8806df0a4c529e,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: da3afe86dcdc5ff4fa087ff906f536be,
+        type: 3}
+    - target: {fileID: 114958679418718686, guid: 0f3943322c0750b4cb8806df0a4c529e,
+        type: 2}
+      propertyPath: m_RaycastTarget
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114423774035921108, guid: 0f3943322c0750b4cb8806df0a4c529e,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1823019635270510, guid: 0f3943322c0750b4cb8806df0a4c529e, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 0f3943322c0750b4cb8806df0a4c529e, type: 2}
   m_IsPrefabParent: 0
